@@ -4,5 +4,7 @@
 下图为音频信号处理的思维导图
 ![思维导图Alt](pic/音频处理思维导图.jpg)
 
-Similarity.md：  
+
+Similarity.py：  
     音频相似性打分算法
+
